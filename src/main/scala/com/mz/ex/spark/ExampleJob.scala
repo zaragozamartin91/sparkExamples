@@ -36,6 +36,8 @@ object ExampleJob {
 //    val transactionsIn = args(1)
 //    val usersIn = args(0)
 
+
+
     val transactionsIn = "./transactions.txt"
     val usersIn = "./users.txt"
 
